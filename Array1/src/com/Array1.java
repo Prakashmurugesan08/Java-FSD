@@ -23,9 +23,8 @@ public class Array1 {
 				      {3, 6, 9},
 				      {2,6,8 }};
 	      
-	    System.out.println("Length of b");
+	    
 	    int length1 =b.length;
-	    System.out.println(length);
 	    System.out.println("Printing the value using for loop");
 	    for (int i=0;i<b.length;i++) {
 	    	for(int j=0;j<b[i].length;j++) {
